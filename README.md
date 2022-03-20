@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Harishankar Giri
+- 👋 Hi, I’m Harishankar 
 - 👀 I’m interested in Android Developement
 - 🌱 I’m currently learning Kotlin
 - 📫 How to reach me giriharishankar@gmail.com
