@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android Developement
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on Android
-- 📫 How to reach me 8260991535 WhatsApp
+- 📫 How to reach me giriharishankar@gmail.com
 
 <!---
 HSG15/HSG15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
