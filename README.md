@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harishankar Giri
 - 👀 I’m interested in Android Developement
 - 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on Android
+- ⚡ Fun fact Want to sleep more even though i slept for 24hours.
 - 📫 How to reach me giriharishankar@gmail.com
 
 <!---
